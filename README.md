@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Ti-innocent
+- 👋 Hi, I’m @Innocent Twagirayesu
+- 👋 Motivated data scientist and climate scientist with better skills of data analysis and research.
 - 👀 I’m interested in mathematical modelling with data science and machine learning.
 - 🌱 I’m currently working as an intern at Global Green Growth Institute
 - 💞️ I’m looking to collaborate on data modelling development
