@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ti-innocent
 - 👀 I’m interested in mathematical modelling with data science and machine learning.
 - 🌱 I’m currently working as an intern at Global Green Growth Institute
-- 💞️ I’m looking to collaborate on climate modelling development
+- 💞️ I’m looking to collaborate on data modelling development
 - 📫 I am available via +250785427328 and innocent.twagirayesu@aims.ac.rw
 
 <!---
